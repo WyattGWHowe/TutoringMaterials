@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Maths Functions/1.0.0": {
+        "runtime": {
+          "Maths Functions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maths Functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
